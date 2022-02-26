@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mizellland
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning computers
+- 🌱 I’m currently learning lua coding
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me email me at: mizelllandinquiries@gmail.com
 
